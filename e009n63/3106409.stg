@@ -1,0 +1,5 @@
+OBJECT_BASE 3106409.btg
+OBJECT ENOL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.592419 63.710553 4.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 9.615604 63.687378 9.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 9.601755 63.703903 6.3 0.00
